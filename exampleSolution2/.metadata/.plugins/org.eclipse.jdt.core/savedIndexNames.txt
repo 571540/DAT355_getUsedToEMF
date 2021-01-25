@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\Marcus\git\DAT355\exampleSolution2\.metadata\.plugins\org.eclipse.jdt.core
+1846309864.index
+3804051598.index
+2044563683.index
+3155418296.index
+497456832.index
+927334461.index
+772169158.index
